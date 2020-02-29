@@ -21,7 +21,7 @@ class landmarkFromAudio(TFPluginAPI):
         self.fs = 44100
         self.scripts_path = ue.get_content_dir() + "Scripts"
         self.model_directory = self.scripts_path + "/models/D40_C3.h5"
-        self.test_file = self.scripts_path +'/test_samples/test1.flac'
+        self.test_file = self.scripts_path +'/test_samples/test5.wav'
         
         
        
