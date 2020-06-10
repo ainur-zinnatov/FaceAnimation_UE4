@@ -1,13 +1,11 @@
 # FaceAnimation
+Проект по ВКР: Механизмы реалистичной мимики для антропоморфных социальных агентов
 
+## Used plugins
 
-Example content project for [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) plugin.
+1. tensorflow-ue4 plugin: https://github.com/getnamo/tensorflow-ue4)
 
-This repository also tracks changes required across all dependencies to make tensorflow work well with UE4.
-
-See [issues](https://github.com/getnamo/tensorflow-ue4-examples/issues) for current work and bug reports.
-
-[Unreal Forum Thread](https://forums.unrealengine.com/community/work-in-progress/1357673-tensorflow)
+2. LE Json https://www.unrealengine.com/marketplace/en-US/product/low-entry-json
 
 ## Setup
 
